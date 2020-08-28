@@ -2,4 +2,4 @@
 Estudo com C# - xamarin desenvolvimento Mobile
 
 
-![tela1](/images/tela01.jpg)
+![tela1](tela01.jpg)
